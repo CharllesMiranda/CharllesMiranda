@@ -2,16 +2,18 @@
 
 Me chamo Charlles Miranda da Silva, tenho 29 anos, estou atualmente em uma fase de transição de carreira. <br>
 Venho da área de Motoboy e estou à procura de uma oportunidade na programação ou desenvolvimento Web. <br><br>
-Estou cursando uma formação de Programadores, chamado DevClub. <br> 
+Estou cursando uma formação de Programadores, chamado DevClub. <br> <br> 
 <a href="https://rodolfomori.com.br/devclub-comercial/" >
-     <img src="https://rodolfomori.com.br/wp-content/uploads/2022/02/LOGO_1-1024x1024.png" width="70px" alt="Logo-DevClub">
+     <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/company-logo_200_200/0/1659810942474/dev_club_devs_logo?e=2147483647&v=beta&t=GRP8n_F3B2XK53Na57LpR_H23FxMWrMm4eJUBu6Z_zw" width="60px" alt="Logo-DevClub">
 </a> <br>
 
 Algumas tecnologias que já aprendi e estou me desenvolvendo como: 
 
- - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="100px" alt="Logo-HTML">
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="100px" alt="Logo-HTML">
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="130px" alt="Logo-HTML">
+ - <img align="center" alt="Gu-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+- <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- <img align="center" alt="Gu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CharllesMiranda&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 Estou em um processo contínuo de aprendizado, buscando qualificações que complementem minha experiência prática e me preparem para novos desafios. <br>
 Acredito que minha dedicação, vontade de aprender e a capacidade de me adaptar rapidamente me tornarão um valioso membro em qualquer equipe.
